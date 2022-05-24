@@ -23,7 +23,7 @@ html {
   font-size: 62.5%;
   overflow-x: hidden;
   scroll-padding-top: 9rem;
-  scoll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 html::-webkit-scrollbar {
@@ -35,7 +35,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
- background: #fff
+ background: #fff;
  border-radius: 5rem;
 }
 
